@@ -37,6 +37,7 @@
 [rctr]>[rwin]
 [pgup]>[ralt]
 [pgdn]>[defs]
+[w]>[eql]
 {o}>{s9}{x1}{-ralt}{p}{+ralt}
 {lshf}{o}>{s9}{x1}{-lshf}{-ralt}{p}{+lshf}{+ralt}
 {rshf}{o}>{s9}{x1}{-rshf}{-ralt}{p}{+rshf}{+ralt}
